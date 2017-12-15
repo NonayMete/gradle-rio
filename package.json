@@ -1,13 +1,13 @@
 {
   "name": "gradle-rio",
   "main": "./lib/gradle-rio",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A gradle rio gui for doing shit",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "gradle-rio:toggle"
   },
-  "repository": "https://github.com/atom/gradle-rio",
+  "repository": "https://github.com/NonayMete/gradle-rio",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
